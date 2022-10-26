@@ -12,7 +12,7 @@ To use visit https://chazillaa.github.io/GT-BC-HW-01
 
 ## Screenshot
 
-![](Assets/01-html-css-git-homework-demo.png)
+![](readme%20image/01-html-css-git-homework-demo.png)
 
 ## Edits 10.24.22
 
