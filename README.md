@@ -8,7 +8,7 @@ N/A
 
 ## Usage
 
-To use visit htts://chazillaa.github.io/GT-BC-HW-01
+To use visit https://chazillaa.github.io/GT-BC-HW-01
 
 ## Screenshot
 
